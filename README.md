@@ -251,6 +251,14 @@
 |---|---|
 | `README.md` | 本檔：主索引、速查總表、矛盾總表、方法論 |
 | `完整報告.md` | 全部分片合訂版（單一檔案，方便離線閱讀） |
+| `會員權益全覽.md` | **會員權益篇合訂版**（2026-11-14 新增）：51 家會員等級／晉級門檻／里程積分規則／逐級權益／註冊懶人包 |
+| `research_benefits/v2_member_benefits_data_20261114.csv` | 會員權益結構化數據（51 行 × 11 欄） |
+| `research_benefits/K1_big4.md` | 權益篇：國航、東航、南航、海航（等級／門檻／權益／註冊） |
+| `research_benefits/K2_xiamen_lowcost.md` | 權益篇：廈航、川航、深航、山航、春秋、吉祥、中聯航、九元、西部 |
+| `research_benefits/K3_hna_regional.md` | 權益篇：海航系 8 家＋長龍、成都、西藏、華夏、青島、湖南、多彩 |
+| `research_benefits/K4_subsidiaries_rest.md` | 權益篇：三大航子公司 15 家＋獨立民營 8 家（註冊入口逐家） |
+| `research_benefits/K5_master_table.md` | 權益篇：51 家速查總表＋共用計畫／註冊禮／里程過期三張專表 |
+| `research_benefits/K6_registration_guide.md` | **51 家註冊懶人包**：逐家入口／驗證方式／註冊禮／一次跑完策略 |
 | `research/A_四大航.md` | 國航、東航、南航、海航 |
 | `research/B_xiamen_sichuan_shenzhen_shandong.md` | 廈航、川航、深航、山航 |
 | `research/C_lowcost_private.md` | 春秋、吉祥、中聯航、九元、西部 |
